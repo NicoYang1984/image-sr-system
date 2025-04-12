@@ -49,6 +49,7 @@ public class FileUploadController {
             RepairTask task = repairService.createTask(filePath.toString());
             response.put("success", true);
             response.put("taskId", task.getTaskId());
+            response.put("imagePath", filePath.toString());
             response.put("message", "文件上传成功");
             return ResponseEntity.ok(response);
         } catch (IOException e) {

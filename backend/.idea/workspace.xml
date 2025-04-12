@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b7a7792-6d8f-4ef1-9281-513148575a80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/backend/model/RepairTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/backend/model/TaskStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/backend/service/RepairService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/backend/util/FileUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/backend.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/backend/BackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/backend/BackendApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/backend/controller/FileUploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/backend/controller/FileUploadController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/backend/BackendApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/backend/BackendApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/backend/controller/FileUploadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/backend/controller/FileUploadController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +73,8 @@
       <workItem from="1742700292295" duration="2015000" />
       <workItem from="1742715419300" duration="10379000" />
       <workItem from="1742784688985" duration="8063000" />
+      <workItem from="1743322288877" duration="305000" />
+      <workItem from="1743324895972" duration="1474000" />
     </task>
     <servers />
   </component>
